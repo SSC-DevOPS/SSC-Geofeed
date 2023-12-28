@@ -1,5 +1,4 @@
-# Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Silver Star Communications Geofeed
+# prefix,country_code,region_code,city,postal
 38.44.248.0/21,US,US-ID,Boise,
 38.141.38.0/24,US,US-ID,Idaho Falls,
 38.141.39.0/24,US,US-WY,Freedom,
