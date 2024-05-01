@@ -1,10 +1,11 @@
 # prefix,country_code,region_code,city,postal
 38.44.248.0/21,US,US-ID,Boise,
 38.141.38.0/24,US,US-ID,Idaho Falls,
-38.141.39.0/24,US,US-WY,Freedom,
 107.190.184.0/24,US,US-WY,Freedom,
 107.190.185.0/24,US,US-ID,Idaho Falls,
 107.190.186.0/24,US,US-ID,Idaho Falls,
+107.190.187.0/24,US,US-ID,Idaho Falls,
+107.190.188.0/24,US,US-ID,Idaho Falls,
 162.248.129.0/24,US,US-WY,Freedom,
 192.187.63.0/24,US,US-ID,Victor,
 199.19.112.0/24,US,US-ID,Victor,
